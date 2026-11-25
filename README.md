@@ -11,4 +11,4 @@ Single-page local landing site for New Roots Development, LLC, served by GitHub 
 - `robots.txt` and `sitemap.xml` are static. Update `lastmod` in the sitemap when `index.html` changes.
 - Copy rules: no em dashes, no employer names, no command counts, posted prices only as they appear in `nrd/canonical-figures.md`, Autodesk marks as adjectives followed by a noun. See the NRD project `nrd/conventions.md`.
 
-Generated 2026-11-24 by `build.py` in the NRD sites kit. Edit `index.html` directly or regenerate from the kit; either is fine, but do not do both without merging.
+Generated 2026-11-25 by `build.py` in the NRD sites kit. Edit `index.html` directly or regenerate from the kit; either is fine, but do not do both without merging.
